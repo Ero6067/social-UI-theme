@@ -10,5 +10,5 @@ Uses HTML5, Bootstrap
 
 # Run
 
-- `git clone https://github.com/Ero6067/<EXAMPLE>.git`
+- `git clone https://github.com/Ero6067/social-UI-theme.git`
 - open index.html
