@@ -2,10 +2,11 @@
 
 Written by Kris Lafrance
 
-Uses HTML5, Bootstrap
+Uses HTML5 (ES6), CSS, Bootstrap
 
 # Features
 
+- Single page application using Bootstrap
 -
 
 # Run
